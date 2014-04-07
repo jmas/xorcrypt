@@ -2,7 +2,7 @@
     "name": "xorcrypt",
     "description": "Xor Crypt.",
     "author": "Maslakov Alexander <jmas.ukraine@gmail.com>",
-    "version": "0.2",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/jmas/xorcrypt.git"
